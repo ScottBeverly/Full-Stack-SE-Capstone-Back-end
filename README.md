@@ -1,7 +1,7 @@
 # Project Overview
 ### Guildies 
 ## Full-Stack App
-- [Guildies Front-end](https://github.comScottBeverlyFull-Stack-SE-Capstone-Front-end/blob/master/README.md)
+
 - [Guildies Back-end](https://github.com/ScottBeverly/Full-Stack-SE-Capstone-Back-end)
 
 ## Project Links
@@ -52,13 +52,11 @@ No Data Yet
 
 | Component | Description | 
 | --- | :---: |  
-| App | This will make the initial data pull and include React Router| 
-| main | This will render the Api information to the child components in this app |
-| Dash| This component will provide data from the Api including different events of the month |
-| Home | this Component will be same level as main and provide information about our guild,  a very basic description of us with route links to (Dash& Home) |
-| Players| This will render the players in the guild and  general css| 
-| Mecahnics | This will render boss mechanics players will face and general css| 
-| Footer | This will render general css| 
+| urls| this will make the data full crud| 
+| views | This wil hold the functionality of the the backend (fullcrud)|
+| serializer| This will provide alot of the informations for the models |
+| Models | this will show the models compenents
+ 
 
 
 
@@ -67,19 +65,14 @@ No Data Yet
 | Component | Priority | Estimated Time | Time Invetsted | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | Project Criteria Overview | H | 1hr| 1hr | 1hr |
-| wireFrames | H | 1hr | 1hr | 1hr |
 | App Architecture | H | 1hr | 1hr | 1hr |
 | MVP overview | H | 1hr | 1hr | 1hr |
 | Time Matrix overview | H | 1hr | 1hr | 1hr |
 | Editor Component Set-up Back-end | H | 2hr |  |  |
-| Editor Component Set-up Front-end | H | 2hr |  |  |
-| Back-end deployed | H | 4 hr |  |  |
+| Back-end deployed | H | 5 hr |  |  |
 | Data Created | H | 5hr |  |  |
-| Basic Html set-up (Components) | M | 3hr |  |  |
-| Data rendered onto Page | M | 4hr |  |  |
-| Style with CSS | L | 7hr |  |  |
 | Re-Orginize files | L | 3hr |  |  |
-| Total | overall | 35.5hrs | 9hrs | 9hrs |
+| Total | overall | 18.5hrs | 9hrs | 9hrs |
 
 ## Additional Libraries Used/Will be Used
  - [Imgur](https://imgur.com/)
