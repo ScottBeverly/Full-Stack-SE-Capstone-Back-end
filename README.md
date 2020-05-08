@@ -29,11 +29,13 @@ No Data Yet
 
 ## Wireframes
 - [WireFrame ](https://wireframepro.mockflow.com/view/Mf67811f7bed7c36d6dce5fdc8cd1719d1588953082681)
-![image description](full-image-path)
+![Home](https://i.imgur.com/9ELZu5H.png)
+![Players](https://i.imgur.com/DVyWVwQ.png)
+![Mechanics](https://i.imgur.com/gco3XWM.png)
 
 ## FlowChart
 - [Architecture](https://drive.google.com/file/d/1RXtuJhg-JWalxV4UHbttYgsBgpPcWLLf/view?usp=sharing)
-![image description](full-image-path)
+![Architecture](https://i.imgur.com/J3VhJKz.png)
 
 #### MVP 
 - sucessful API data creation
@@ -76,7 +78,7 @@ No Data Yet
 | Data rendered onto Page | M | 4hr |  |  |
 | Style with CSS | L | 7hr |  |  |
 | Re-Orginize files | L | 3hr |  |  |
-| Total | overall | | 35.5hrs | 9hrs |
+| Total | overall | 35.5hrs | 9hrs | 9hrs |
 
 ## Additional Libraries Used/Will be Used
  - [Imgur](https://imgur.com/)
@@ -84,7 +86,7 @@ No Data Yet
 ## Code Snippet
  
 ```
-
+No Snippet Yet
 ```
 
 
@@ -94,5 +96,4 @@ No Data Yet
 - [Python](https://www.python.org/)
 - [W3 schools](https://www.w3schools.com/)
 - [Github](https://github.com/)
-
 
