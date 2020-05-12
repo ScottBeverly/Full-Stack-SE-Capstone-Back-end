@@ -1,1 +1,0 @@
-web: gunicorn Full-Stack-SE-Capstone-Back-end.wsgi --log-file -
