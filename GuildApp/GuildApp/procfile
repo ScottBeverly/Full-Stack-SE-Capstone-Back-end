@@ -1,1 +1,0 @@
-web: gunicorn GuildApp.wsgi --log-file -
