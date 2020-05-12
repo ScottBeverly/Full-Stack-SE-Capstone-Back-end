@@ -1,1 +1,1 @@
-web gunicorn GuildApp.wsgi --log-file -
+web: gunicorn GuildApp.wsgi --log-file -
