@@ -12,11 +12,7 @@
 ## Project Description
 
 This is an app where The gaming community can come together and view their fellow guild members to what they are doing for their class in the game. not only that but the database will be loaded with multiple descriptions on bosses that they will encounter throughout the game 
-## API Snippet
-```
-No Data Yet
 
-```
 
 ### Built With
 - [Python](https://www.python.org/)
@@ -68,20 +64,20 @@ No Data Yet
 | App Architecture | H | 1hr | 1hr | 1hr |
 | MVP overview | H | 1hr | 1hr | 1hr |
 | Time Matrix overview | H | 1hr | 1hr | 1hr |
-| Editor Component Set-up Back-end | H | 2hr |  |  |
-| Back-end deployed | H | 5 hr |  |  |
-| Data Created | H | 5hr |  |  |
-| Re-Orginize files | L | 3hr |  |  |
-| Total | overall | 18.5hrs | 9hrs | 9hrs |
+| Editor Component Set-up Back-end | H | 2hr | 2hr | 2hr |
+| Back-end deployed | H | 5 hr | 12hr | 12hr |
+| Data Created | H | 5hr | 5hr | 5hr |
+| Re-Orginize files | L | 3hr | 1hr | 1hr |
+| Total | overall | 18.5hrs | 24hrs | 24hrs |
 
 ## Additional Libraries Used/Will be Used
  - [Imgur](https://imgur.com/)
 
 ## Code Snippet
+
+- I really enjoyed Creating the Url's to this backend. There are so many different things you can do with your api. Its incredible!
  
-```
-No Snippet Yet
-```
+![Urls](https://i.imgur.com/9ELZu5H.png)
 
 
 
