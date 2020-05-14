@@ -71,7 +71,7 @@ This is an app where The gaming community can come together and view their fello
 | Total | overall | 18.5hrs | 24hrs | 24hrs |
 
 ## Additional Libraries Used/Will be Used
- - [Imgur](https://imgur.com/)
+ - [Imgur](https://i.imgur.com/vrd0YNp.png)
 
 ## Code Snippet
 
