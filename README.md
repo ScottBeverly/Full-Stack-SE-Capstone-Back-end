@@ -75,9 +75,9 @@ This is an app where The gaming community can come together and view their fello
 
 ## Code Snippet
 
-- I really enjoyed Creating the Url's to this backend. There are so many different things you can do with your api. Its incredible!
+I really enjoyed Creating the Url's to this backend. There are so many different things you can do with your api. Its incredible!
  
-![Urls](https://i.imgur.com/9ELZu5H.png)
+![Urls](https://i.imgur.com/vrd0YNp.png)
 
 
 
