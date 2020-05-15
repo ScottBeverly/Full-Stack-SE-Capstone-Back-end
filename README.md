@@ -6,8 +6,7 @@
 
 ## Project Links
 
-- [API Data Link](Backend-not-deployed)
-- [Netlify](front-end-not-deployed)
+- [API Data Link](https://scottguildapp2.herokuapp.com/api/player-list/)
 
 ## Project Description
 
